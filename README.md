@@ -1,4 +1,4 @@
-# 👋 Hello World! I type up websites that look good and function smoothly.
+# 👋 Hello World! I'm Luka and I type up websites.
 
 🌿 I’m a front-end developer passionate about creating dynamic modern websites. 
 
