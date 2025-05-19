@@ -1,17 +1,18 @@
-## Hi there 👋
+# 👋 Hey there, I’m Luka!
 
-<!--
-**Lolaaux/Lolaaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌿 I’m a front-end developer passionate about creating sleek, motion-rich websites that feel alive.
 
-Here are some ideas to get you started:
+### 💻 Tech I Use
+- ⚡ React, Vite, TailwindCSS, GSAP
+- 🎨 Figma for clean and modern UI design
+- 🌍 Netlify for fast deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,supabase)](https://skillicons.dev)
+### 🛠️ What I Do
+- Design and build websites from scratch
+- Add smooth interactive motion with scroll and hover animations
+- Optimize for speed and clean code
+
+
+📫 Want to connect?  
+You can find me on [GitHub](https://github.com/Lolaaux)
+
