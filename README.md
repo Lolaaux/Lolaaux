@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Luka!
 
-# 🌿 I’m a front-end developer passionate about creating dynamic modern websites. ![Coding Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHI2NjgxM2FiMnRoZGNyM2RpeXRyMzZiN3QxaW13aWxibzc0OWloZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif)
-
+🌿 I’m a front-end developer passionate about creating dynamic modern websites. 
+<img src="your-gif-url.gif" width="300" height="200" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lolaaux&layout=compact&theme=radical)
 
 ### 💻 Tools
